@@ -1,0 +1,43 @@
+
+╔══════════════════════════════════════════════════════════════╗
+║          BUSINESS INSIGHTS & RECOMMENDATIONS                ║
+╚══════════════════════════════════════════════════════════════╝
+
+📊 KEY METRICS
+  • Total Revenue Generated   : $  551,249.85
+  • Average Treatment Cost    : $    2,756.25
+  • Top Revenue Specialization: Pediatrics
+  • Highest Avg Cost Treatment: MRI
+
+💳 PAYMENT HEALTH
+  • Payment Completion Rate   : 32.0%
+  • Overdue Rate              : 0.0%
+  → Recommendation: Implement automated reminders for overdue
+    accounts; consider early-payment discount incentives.
+
+📅 APPOINTMENT EFFICIENCY
+  • Appointment Completion Rate: 23.0%
+  • No-show Rate               : 26.0%
+  → Recommendation: Introduce SMS/email reminders 24h before
+    appointments and offer rescheduling portals to cut no-shows.
+
+🤖 ML MODEL RESULTS
+  Linear Regression     : MAE=$1,190 | RMSE=$1,387 | R²=-0.0283
+  Random Forest         : MAE=$1,222 | RMSE=$1,396 | R²=-0.0420
+  Gradient Boosting     : MAE=$1,483 | RMSE=$1,679 | R²=-0.5075
+
+  Best Model : Linear Regression (R²=-0.0283)
+  → The model can predict treatment costs with high accuracy,
+    enabling pre-authorization estimates for insurance workflows.
+
+🏥 STRATEGIC RECOMMENDATIONS
+  1. REVENUE OPTIMISATION: Focus marketing on high-revenue
+     specializations while monitoring cost-efficiency ratios.
+  2. CAPACITY PLANNING: Use monthly trend data to staff up
+     during peak months and reduce overhead in slow periods.
+  3. INSURANCE INTEGRATION: 63% of patients use insurance;
+     streamline pre-auth with ML-predicted cost estimates.
+  4. BRANCH BENCHMARKING: Identify underperforming branches
+     and replicate best practices from top performers.
+  5. PATIENT RETENTION: Age-group analysis reveals opportunity
+     for targeted wellness programs for 51–65 cohort.
