@@ -1,0 +1,201 @@
+appointment_id,patient_id,doctor_id,appointment_date,appointment_time,reason_for_visit,status,month,day_name,hour,gender,age,age_group,insurance_provider,specialization,years_experience,hospital_branch,treatment_type,description,cost,treatment_id,amount,payment_method,payment_status
+A001,P034,D009,2023-08-09,15:15:00,Therapy,Scheduled,2023-08,Wednesday,15,F,76,65+,WellnessCorp,Pediatrics,26,Central Hospital,Chemotherapy,Basic screening,3941.97,T001,3941.97,Insurance,Pending
+A002,P032,D004,2023-06-09,14:30:00,Therapy,No-show,2023-06,Friday,14,M,45,36-50,MedCare Plus,Pediatrics,28,Central Hospital,MRI,Advanced protocol,4158.44,T002,4158.44,Insurance,Paid
+A003,P048,D004,2023-06-28,8:00:00,Consultation,Cancelled,2023-06,Wednesday,8,M,43,36-50,PulseSecure,Pediatrics,28,Central Hospital,MRI,Standard procedure,3731.55,T003,3731.55,Insurance,Paid
+A004,P025,D006,2023-09-01,9:15:00,Consultation,Cancelled,2023-09,Friday,9,M,59,51-65,HealthIndia,Pediatrics,23,Central Hospital,MRI,Basic screening,4799.86,T004,4799.86,Insurance,Failed
+A005,P040,D003,2023-07-06,12:45:00,Emergency,No-show,2023-07,Thursday,12,M,54,51-65,PulseSecure,Pediatrics,19,Eastside Clinic,ECG,Standard procedure,582.05,T005,582.05,Credit Card,Pending
+A006,P045,D006,2023-06-19,16:15:00,Checkup,Scheduled,2023-06,Monday,16,F,60,51-65,MedCare Plus,Pediatrics,23,Central Hospital,Chemotherapy,Standard procedure,1381.0,T006,1381.0,Insurance,Pending
+A007,P001,D007,2023-04-09,10:30:00,Consultation,Scheduled,2023-04,Sunday,10,F,71,65+,WellnessCorp,Oncology,26,Westside Clinic,Chemotherapy,Advanced protocol,534.03,T007,534.03,Cash,Failed
+A008,P016,D010,2023-05-24,8:45:00,Consultation,Cancelled,2023-05,Wednesday,8,M,25,18-35,PulseSecure,Oncology,21,Eastside Clinic,Physiotherapy,Basic screening,3413.64,T008,3413.64,Cash,Failed
+A009,P039,D010,2023-03-05,13:45:00,Follow-up,Scheduled,2023-03,Sunday,13,F,75,65+,PulseSecure,Oncology,21,Eastside Clinic,Physiotherapy,Standard procedure,4541.14,T009,4541.14,Credit Card,Paid
+A010,P005,D003,2023-01-13,15:30:00,Therapy,Completed,2023-01,Friday,15,M,65,51-65,MedCare Plus,Pediatrics,19,Eastside Clinic,Physiotherapy,Standard procedure,1595.67,T010,1595.67,Cash,Paid
+A011,P022,D007,2023-11-12,16:00:00,Checkup,No-show,2023-11,Sunday,16,M,71,65+,MedCare Plus,Oncology,26,Westside Clinic,MRI,Basic screening,4671.66,T011,4671.66,Cash,Failed
+A012,P029,D003,2023-05-07,10:00:00,Follow-up,Completed,2023-05,Sunday,10,M,21,18-35,HealthIndia,Pediatrics,19,Eastside Clinic,Chemotherapy,Standard procedure,771.2,T012,771.2,Insurance,Pending
+A013,P003,D002,2023-08-16,12:00:00,Emergency,Scheduled,2023-08,Wednesday,12,M,48,36-50,PulseSecure,Pediatrics,24,Eastside Clinic,MRI,Standard procedure,4704.96,T013,4704.96,Cash,Paid
+A014,P012,D010,2023-05-25,10:30:00,Emergency,Cancelled,2023-05,Thursday,10,F,34,18-35,MedCare Plus,Oncology,21,Eastside Clinic,ECG,Basic screening,2082.3,T014,2082.3,Credit Card,Paid
+A015,P026,D004,2023-01-15,17:15:00,Consultation,No-show,2023-01,Sunday,17,M,22,18-35,MedCare Plus,Pediatrics,28,Central Hospital,Physiotherapy,Basic screening,956.39,T015,956.39,Insurance,Pending
+A016,P016,D008,2023-06-30,11:00:00,Consultation,Scheduled,2023-06,Friday,11,M,25,18-35,PulseSecure,Dermatology,5,Westside Clinic,MRI,Basic screening,2686.42,T016,2686.42,Insurance,Paid
+A017,P037,D009,2023-07-11,17:00:00,Emergency,Scheduled,2023-07,Tuesday,17,M,27,18-35,HealthIndia,Pediatrics,26,Central Hospital,MRI,Basic screening,1655.49,T017,1655.49,Credit Card,Pending
+A018,P022,D007,2023-11-14,9:45:00,Consultation,Cancelled,2023-11,Tuesday,9,M,71,65+,MedCare Plus,Oncology,26,Westside Clinic,ECG,Advanced protocol,1781.93,T018,1781.93,Insurance,Pending
+A019,P029,D001,2023-02-06,15:30:00,Checkup,Cancelled,2023-02,Monday,15,M,21,18-35,HealthIndia,Dermatology,17,Westside Clinic,X-Ray,Basic screening,1882.8,T019,1882.8,Insurance,Pending
+A020,P014,D003,2023-12-05,15:15:00,Consultation,Completed,2023-12,Tuesday,15,M,58,51-65,MedCare Plus,Pediatrics,19,Eastside Clinic,Chemotherapy,Advanced protocol,4113.62,T020,4113.62,Credit Card,Failed
+A021,P028,D009,2023-04-24,10:00:00,Therapy,No-show,2023-04,Monday,10,M,33,18-35,MedCare Plus,Pediatrics,26,Central Hospital,X-Ray,Advanced protocol,2926.23,T021,2926.23,Insurance,Failed
+A022,P005,D001,2023-11-14,13:00:00,Consultation,No-show,2023-11,Tuesday,13,M,65,51-65,MedCare Plus,Dermatology,17,Westside Clinic,Physiotherapy,Advanced protocol,1900.88,T022,1900.88,Credit Card,Failed
+A023,P047,D009,2023-05-09,14:30:00,Follow-up,Cancelled,2023-05,Tuesday,14,M,30,18-35,WellnessCorp,Pediatrics,26,Central Hospital,MRI,Standard procedure,3246.5,T023,3246.5,Credit Card,Pending
+A024,P049,D008,2023-06-21,8:00:00,Checkup,Completed,2023-06,Wednesday,8,M,53,51-65,MedCare Plus,Dermatology,5,Westside Clinic,ECG,Advanced protocol,3722.68,T024,3722.68,Cash,Pending
+A025,P030,D001,2023-02-25,8:00:00,Follow-up,No-show,2023-02,Saturday,8,M,61,51-65,PulseSecure,Dermatology,17,Westside Clinic,ECG,Advanced protocol,1726.81,T025,1726.81,Cash,Failed
+A026,P046,D006,2023-03-17,14:15:00,Follow-up,Cancelled,2023-03,Friday,14,F,39,36-50,MedCare Plus,Pediatrics,23,Central Hospital,Chemotherapy,Standard procedure,2360.97,T026,2360.97,Insurance,Paid
+A027,P005,D005,2023-11-14,12:45:00,Therapy,Scheduled,2023-11,Tuesday,12,M,65,51-65,MedCare Plus,Dermatology,26,Central Hospital,X-Ray,Standard procedure,1048.49,T027,1048.49,Insurance,Pending
+A028,P012,D006,2023-10-29,15:30:00,Checkup,No-show,2023-10,Sunday,15,F,34,18-35,MedCare Plus,Pediatrics,23,Central Hospital,Chemotherapy,Standard procedure,1315.17,T028,1315.17,Credit Card,Paid
+A029,P016,D010,2023-06-25,14:30:00,Checkup,Completed,2023-06,Sunday,14,M,25,18-35,PulseSecure,Oncology,21,Eastside Clinic,MRI,Basic screening,3565.03,T029,3565.03,Insurance,Paid
+A030,P026,D005,2023-08-29,13:15:00,Checkup,Completed,2023-08,Tuesday,13,M,22,18-35,MedCare Plus,Dermatology,26,Central Hospital,Chemotherapy,Standard procedure,1316.47,T030,1316.47,Credit Card,Pending
+A031,P026,D006,2023-04-04,10:30:00,Checkup,Completed,2023-04,Tuesday,10,M,22,18-35,MedCare Plus,Pediatrics,23,Central Hospital,ECG,Standard procedure,2863.24,T031,2863.24,Credit Card,Pending
+A032,P048,D005,2023-11-06,10:45:00,Checkup,Scheduled,2023-11,Monday,10,M,43,36-50,PulseSecure,Dermatology,26,Central Hospital,ECG,Advanced protocol,3690.71,T032,3690.71,Insurance,Paid
+A033,P021,D005,2023-09-23,17:45:00,Therapy,No-show,2023-09,Saturday,17,M,24,18-35,WellnessCorp,Dermatology,26,Central Hospital,Physiotherapy,Standard procedure,980.95,T033,980.95,Credit Card,Paid
+A034,P039,D004,2023-06-13,11:30:00,Consultation,No-show,2023-06,Tuesday,11,F,75,65+,PulseSecure,Pediatrics,28,Central Hospital,Physiotherapy,Basic screening,3052.9,T034,3052.9,Cash,Failed
+A035,P036,D003,2023-04-18,8:45:00,Follow-up,Scheduled,2023-04,Tuesday,8,M,28,18-35,MedCare Plus,Pediatrics,19,Eastside Clinic,MRI,Standard procedure,1654.53,T035,1654.53,Insurance,Failed
+A036,P033,D003,2023-01-08,14:30:00,Checkup,No-show,2023-01,Sunday,14,F,56,51-65,MedCare Plus,Pediatrics,19,Eastside Clinic,X-Ray,Basic screening,4833.17,T036,4833.17,Cash,Pending
+A037,P030,D004,2023-03-28,11:00:00,Consultation,Scheduled,2023-03,Tuesday,11,M,61,51-65,PulseSecure,Pediatrics,28,Central Hospital,Chemotherapy,Standard procedure,2675.96,T037,2675.96,Insurance,Failed
+A038,P037,D009,2023-02-23,13:00:00,Consultation,Scheduled,2023-02,Thursday,13,M,27,18-35,HealthIndia,Pediatrics,26,Central Hospital,MRI,Standard procedure,4126.97,T038,4126.97,Credit Card,Failed
+A039,P023,D002,2023-04-17,8:00:00,Follow-up,Scheduled,2023-04,Monday,8,M,32,18-35,WellnessCorp,Pediatrics,24,Eastside Clinic,Physiotherapy,Standard procedure,2976.02,T039,2976.02,Insurance,Failed
+A040,P010,D009,2023-03-27,12:30:00,Therapy,Completed,2023-03,Monday,12,M,24,18-35,WellnessCorp,Pediatrics,26,Central Hospital,Chemotherapy,Standard procedure,695.36,T040,695.36,Cash,Failed
+A041,P005,D001,2023-01-01,14:00:00,Emergency,No-show,2023-01,Sunday,14,M,65,51-65,MedCare Plus,Dermatology,17,Westside Clinic,Physiotherapy,Basic screening,3349.18,T041,3349.18,Credit Card,Paid
+A042,P036,D001,2023-03-21,11:15:00,Emergency,Scheduled,2023-03,Tuesday,11,M,28,18-35,MedCare Plus,Dermatology,17,Westside Clinic,Chemotherapy,Basic screening,4781.32,T042,4781.32,Insurance,Pending
+A043,P034,D005,2023-03-29,9:15:00,Consultation,No-show,2023-03,Wednesday,9,F,76,65+,WellnessCorp,Dermatology,26,Central Hospital,X-Ray,Advanced protocol,3207.25,T043,3207.25,Insurance,Failed
+A044,P031,D006,2023-09-20,12:30:00,Follow-up,Completed,2023-09,Wednesday,12,M,39,36-50,WellnessCorp,Pediatrics,23,Central Hospital,MRI,Basic screening,4186.35,T044,4186.35,Insurance,Paid
+A045,P010,D006,2023-09-28,17:00:00,Emergency,Scheduled,2023-09,Thursday,17,M,24,18-35,WellnessCorp,Pediatrics,23,Central Hospital,Chemotherapy,Standard procedure,4478.93,T045,4478.93,Cash,Paid
+A046,P019,D003,2023-12-20,13:15:00,Consultation,Cancelled,2023-12,Wednesday,13,M,51,51-65,WellnessCorp,Pediatrics,19,Eastside Clinic,ECG,Advanced protocol,1526.36,T046,1526.36,Cash,Paid
+A047,P032,D007,2023-05-02,11:00:00,Therapy,Completed,2023-05,Tuesday,11,M,45,36-50,MedCare Plus,Oncology,26,Westside Clinic,ECG,Advanced protocol,1454.2,T047,1454.2,Insurance,Failed
+A048,P001,D009,2023-01-16,15:45:00,Emergency,Cancelled,2023-01,Monday,15,F,71,65+,WellnessCorp,Pediatrics,26,Central Hospital,Chemotherapy,Advanced protocol,3249.41,T048,3249.41,Credit Card,Failed
+A049,P005,D010,2023-04-30,15:30:00,Consultation,No-show,2023-04,Sunday,15,M,65,51-65,MedCare Plus,Oncology,21,Eastside Clinic,Chemotherapy,Standard procedure,2349.63,T049,2349.63,Credit Card,Pending
+A050,P045,D008,2023-08-16,15:00:00,Consultation,No-show,2023-08,Wednesday,15,F,60,51-65,MedCare Plus,Dermatology,5,Westside Clinic,Chemotherapy,Basic screening,4279.38,T050,4279.38,Cash,Failed
+A051,P004,D006,2023-02-04,11:45:00,Checkup,Completed,2023-02,Saturday,11,F,45,36-50,HealthIndia,Pediatrics,23,Central Hospital,ECG,Standard procedure,4550.1,T051,4550.1,Credit Card,Failed
+A052,P016,D008,2023-07-12,9:30:00,Therapy,No-show,2023-07,Wednesday,9,M,25,18-35,PulseSecure,Dermatology,5,Westside Clinic,ECG,Advanced protocol,2090.4,T052,2090.4,Cash,Paid
+A053,P024,D005,2023-02-12,10:30:00,Checkup,Cancelled,2023-02,Sunday,10,F,34,18-35,WellnessCorp,Dermatology,26,Central Hospital,Chemotherapy,Standard procedure,1565.92,T053,1565.92,Insurance,Pending
+A054,P016,D008,2023-12-16,11:45:00,Follow-up,Scheduled,2023-12,Saturday,11,M,25,18-35,PulseSecure,Dermatology,5,Westside Clinic,Physiotherapy,Standard procedure,4012.36,T054,4012.36,Cash,Failed
+A055,P002,D010,2023-10-06,17:30:00,Checkup,Scheduled,2023-10,Friday,17,F,41,36-50,PulseSecure,Oncology,21,Eastside Clinic,Physiotherapy,Basic screening,1736.63,T055,1736.63,Cash,Failed
+A056,P049,D004,2023-01-02,12:45:00,Checkup,Scheduled,2023-01,Monday,12,M,53,51-65,MedCare Plus,Pediatrics,28,Central Hospital,X-Ray,Basic screening,4201.76,T056,4201.76,Insurance,Paid
+A057,P028,D010,2023-04-15,17:45:00,Emergency,Completed,2023-04,Saturday,17,M,33,18-35,MedCare Plus,Oncology,21,Eastside Clinic,MRI,Advanced protocol,2406.82,T057,2406.82,Credit Card,Paid
+A058,P032,D008,2023-05-09,13:15:00,Consultation,No-show,2023-05,Tuesday,13,M,45,36-50,MedCare Plus,Dermatology,5,Westside Clinic,Physiotherapy,Standard procedure,3503.97,T058,3503.97,Cash,Failed
+A059,P027,D010,2023-03-09,15:30:00,Therapy,Cancelled,2023-03,Thursday,15,F,27,18-35,HealthIndia,Oncology,21,Eastside Clinic,ECG,Standard procedure,929.91,T059,929.91,Cash,Pending
+A060,P020,D002,2023-11-22,17:15:00,Checkup,No-show,2023-11,Wednesday,17,F,23,18-35,MedCare Plus,Pediatrics,24,Eastside Clinic,Physiotherapy,Basic screening,3307.37,T060,3307.37,Insurance,Pending
+A061,P024,D005,2023-01-15,17:00:00,Therapy,No-show,2023-01,Sunday,17,F,34,18-35,WellnessCorp,Dermatology,26,Central Hospital,X-Ray,Standard procedure,2532.95,T061,2532.95,Credit Card,Paid
+A062,P012,D009,2023-06-14,15:15:00,Checkup,No-show,2023-06,Wednesday,15,F,34,18-35,MedCare Plus,Pediatrics,26,Central Hospital,X-Ray,Standard procedure,3139.74,T062,3139.74,Cash,Paid
+A063,P050,D004,2023-06-29,9:00:00,Follow-up,Scheduled,2023-06,Thursday,9,M,32,18-35,WellnessCorp,Pediatrics,28,Central Hospital,MRI,Standard procedure,1256.06,T063,1256.06,Insurance,Failed
+A064,P035,D006,2023-05-31,8:30:00,Checkup,Cancelled,2023-05,Wednesday,8,F,33,18-35,MedCare Plus,Pediatrics,23,Central Hospital,Physiotherapy,Basic screening,3815.93,T064,3815.93,Cash,Paid
+A065,P033,D001,2023-04-24,15:45:00,Emergency,Cancelled,2023-04,Monday,15,F,56,51-65,MedCare Plus,Dermatology,17,Westside Clinic,ECG,Advanced protocol,4382.59,T065,4382.59,Insurance,Failed
+A066,P033,D009,2023-05-10,11:45:00,Consultation,No-show,2023-05,Wednesday,11,F,56,51-65,MedCare Plus,Pediatrics,26,Central Hospital,ECG,Advanced protocol,1475.33,T066,1475.33,Credit Card,Pending
+A067,P043,D001,2023-08-10,11:00:00,Follow-up,Scheduled,2023-08,Thursday,11,M,46,36-50,WellnessCorp,Dermatology,17,Westside Clinic,Chemotherapy,Standard procedure,930.72,T067,930.72,Credit Card,Pending
+A068,P037,D005,2023-03-14,15:00:00,Checkup,Scheduled,2023-03,Tuesday,15,M,27,18-35,HealthIndia,Dermatology,26,Central Hospital,ECG,Advanced protocol,606.37,T068,606.37,Credit Card,Failed
+A069,P012,D004,2023-03-29,15:30:00,Therapy,Cancelled,2023-03,Wednesday,15,F,34,18-35,MedCare Plus,Pediatrics,28,Central Hospital,MRI,Basic screening,3388.87,T069,3388.87,Credit Card,Paid
+A070,P003,D003,2023-08-26,17:00:00,Follow-up,Scheduled,2023-08,Saturday,17,M,48,36-50,PulseSecure,Pediatrics,19,Eastside Clinic,MRI,Basic screening,3231.92,T070,3231.92,Cash,Pending
+A071,P001,D006,2023-01-26,17:00:00,Follow-up,Scheduled,2023-01,Thursday,17,F,71,65+,WellnessCorp,Pediatrics,23,Central Hospital,ECG,Advanced protocol,2960.14,T071,2960.14,Cash,Paid
+A072,P033,D002,2023-06-12,13:30:00,Checkup,Scheduled,2023-06,Monday,13,F,56,51-65,MedCare Plus,Pediatrics,24,Eastside Clinic,ECG,Advanced protocol,1543.76,T072,1543.76,Credit Card,Pending
+A073,P040,D003,2023-12-24,15:00:00,Follow-up,Completed,2023-12,Sunday,15,M,54,51-65,PulseSecure,Pediatrics,19,Eastside Clinic,Chemotherapy,Standard procedure,2259.08,T073,2259.08,Credit Card,Failed
+A074,P010,D005,2023-07-23,13:30:00,Therapy,No-show,2023-07,Sunday,13,M,24,18-35,WellnessCorp,Dermatology,26,Central Hospital,ECG,Advanced protocol,3175.14,T074,3175.14,Credit Card,Failed
+A075,P043,D009,2023-05-08,14:00:00,Follow-up,Cancelled,2023-05,Monday,14,M,46,36-50,WellnessCorp,Pediatrics,26,Central Hospital,Chemotherapy,Standard procedure,2735.45,T075,2735.45,Cash,Failed
+A076,P044,D002,2023-11-27,12:00:00,Therapy,Cancelled,2023-11,Monday,12,F,50,36-50,PulseSecure,Pediatrics,24,Eastside Clinic,Chemotherapy,Standard procedure,4945.03,T076,4945.03,Credit Card,Pending
+A077,P029,D010,2023-12-14,17:15:00,Checkup,Completed,2023-12,Thursday,17,M,21,18-35,HealthIndia,Oncology,21,Eastside Clinic,ECG,Basic screening,1113.98,T077,1113.98,Credit Card,Paid
+A078,P013,D008,2023-09-17,11:15:00,Consultation,No-show,2023-09,Sunday,11,F,36,36-50,WellnessCorp,Dermatology,5,Westside Clinic,X-Ray,Basic screening,3628.15,T078,3628.15,Credit Card,Paid
+A079,P012,D002,2023-12-26,14:00:00,Follow-up,Cancelled,2023-12,Tuesday,14,F,34,18-35,MedCare Plus,Pediatrics,24,Eastside Clinic,X-Ray,Basic screening,2319.43,T079,2319.43,Insurance,Paid
+A080,P031,D005,2023-06-26,8:30:00,Consultation,Scheduled,2023-06,Monday,8,M,39,36-50,WellnessCorp,Dermatology,26,Central Hospital,Chemotherapy,Basic screening,2426.9,T080,2426.9,Credit Card,Pending
+A081,P046,D007,2023-01-06,13:30:00,Therapy,Cancelled,2023-01,Friday,13,F,39,36-50,MedCare Plus,Oncology,26,Westside Clinic,ECG,Advanced protocol,3729.19,T081,3729.19,Insurance,Pending
+A082,P002,D008,2023-01-20,10:45:00,Follow-up,Scheduled,2023-01,Friday,10,F,41,36-50,PulseSecure,Dermatology,5,Westside Clinic,X-Ray,Basic screening,3615.96,T082,3615.96,Insurance,Pending
+A083,P050,D001,2023-11-07,12:30:00,Emergency,Completed,2023-11,Tuesday,12,M,32,18-35,WellnessCorp,Dermatology,17,Westside Clinic,ECG,Advanced protocol,4960.65,T083,4960.65,Credit Card,Pending
+A084,P035,D006,2023-05-31,16:00:00,Consultation,Scheduled,2023-05,Wednesday,16,F,33,18-35,MedCare Plus,Pediatrics,23,Central Hospital,ECG,Basic screening,1077.77,T084,1077.77,Insurance,Pending
+A085,P023,D001,2023-02-18,16:15:00,Follow-up,Cancelled,2023-02,Saturday,16,M,32,18-35,WellnessCorp,Dermatology,17,Westside Clinic,ECG,Advanced protocol,968.49,T085,968.49,Credit Card,Paid
+A086,P017,D002,2023-10-29,11:00:00,Consultation,Cancelled,2023-10,Sunday,11,M,35,18-35,WellnessCorp,Pediatrics,24,Eastside Clinic,Physiotherapy,Standard procedure,3759.52,T086,3759.52,Cash,Pending
+A087,P026,D001,2023-10-19,12:15:00,Follow-up,Cancelled,2023-10,Thursday,12,M,22,18-35,MedCare Plus,Dermatology,17,Westside Clinic,ECG,Advanced protocol,3102.74,T087,3102.74,Cash,Pending
+A088,P008,D005,2023-05-02,16:30:00,Checkup,Completed,2023-05,Tuesday,16,F,49,36-50,WellnessCorp,Dermatology,26,Central Hospital,Physiotherapy,Advanced protocol,1733.72,T088,1733.72,Cash,Paid
+A089,P029,D010,2023-02-14,11:00:00,Consultation,Completed,2023-02,Tuesday,11,M,21,18-35,HealthIndia,Oncology,21,Eastside Clinic,Chemotherapy,Basic screening,857.39,T089,857.39,Cash,Pending
+A090,P026,D009,2023-06-01,17:30:00,Emergency,No-show,2023-06,Thursday,17,M,22,18-35,MedCare Plus,Pediatrics,26,Central Hospital,X-Ray,Advanced protocol,885.46,T090,885.46,Insurance,Paid
+A091,P010,D006,2023-06-11,13:15:00,Emergency,Cancelled,2023-06,Sunday,13,M,24,18-35,WellnessCorp,Pediatrics,23,Central Hospital,X-Ray,Standard procedure,4523.86,T091,4523.86,Credit Card,Paid
+A092,P026,D001,2023-01-30,14:15:00,Therapy,Scheduled,2023-01,Monday,14,M,22,18-35,MedCare Plus,Dermatology,17,Westside Clinic,X-Ray,Standard procedure,1363.4,T092,1363.4,Credit Card,Failed
+A093,P034,D001,2023-04-09,9:30:00,Follow-up,Completed,2023-04,Sunday,9,F,76,65+,WellnessCorp,Dermatology,17,Westside Clinic,X-Ray,Basic screening,1955.17,T093,1955.17,Credit Card,Failed
+A094,P041,D002,2023-04-08,8:45:00,Consultation,Cancelled,2023-04,Saturday,8,M,75,65+,WellnessCorp,Pediatrics,24,Eastside Clinic,X-Ray,Standard procedure,1519.95,T094,1519.95,Cash,Failed
+A095,P007,D009,2023-05-09,10:15:00,Therapy,Cancelled,2023-05,Tuesday,10,F,37,36-50,MedCare Plus,Pediatrics,26,Central Hospital,X-Ray,Advanced protocol,2097.48,T095,2097.48,Cash,Failed
+A096,P004,D003,2023-07-07,15:00:00,Consultation,Completed,2023-07,Friday,15,F,45,36-50,HealthIndia,Pediatrics,19,Eastside Clinic,X-Ray,Standard procedure,812.41,T096,812.41,Credit Card,Pending
+A097,P050,D001,2023-05-06,14:45:00,Follow-up,No-show,2023-05,Saturday,14,M,32,18-35,WellnessCorp,Dermatology,17,Westside Clinic,Chemotherapy,Basic screening,2835.77,T097,2835.77,Cash,Failed
+A098,P045,D005,2023-03-17,13:00:00,Emergency,Completed,2023-03,Friday,13,F,60,51-65,MedCare Plus,Dermatology,26,Central Hospital,ECG,Advanced protocol,804.26,T098,804.26,Credit Card,Paid
+A099,P011,D007,2023-07-04,15:00:00,Checkup,Completed,2023-07,Tuesday,15,F,59,51-65,MedCare Plus,Oncology,26,Westside Clinic,MRI,Basic screening,4101.6,T099,4101.6,Credit Card,Pending
+A100,P029,D006,2023-03-02,8:00:00,Emergency,Scheduled,2023-03,Thursday,8,M,21,18-35,HealthIndia,Pediatrics,23,Central Hospital,Physiotherapy,Advanced protocol,1551.7,T100,1551.7,Credit Card,Failed
+A101,P036,D001,2023-09-21,13:15:00,Therapy,Scheduled,2023-09,Thursday,13,M,28,18-35,MedCare Plus,Dermatology,17,Westside Clinic,MRI,Standard procedure,2930.05,T101,2930.05,Credit Card,Paid
+A102,P025,D005,2023-10-25,9:00:00,Checkup,No-show,2023-10,Wednesday,9,M,59,51-65,HealthIndia,Dermatology,26,Central Hospital,MRI,Basic screening,4460.36,T102,4460.36,Credit Card,Pending
+A103,P021,D005,2023-01-24,8:30:00,Therapy,Cancelled,2023-01,Tuesday,8,M,24,18-35,WellnessCorp,Dermatology,26,Central Hospital,ECG,Basic screening,3428.95,T103,3428.95,Credit Card,Pending
+A104,P036,D006,2023-04-18,8:45:00,Follow-up,Completed,2023-04,Tuesday,8,M,28,18-35,MedCare Plus,Pediatrics,23,Central Hospital,ECG,Advanced protocol,2898.31,T104,2898.31,Credit Card,Failed
+A105,P010,D003,2023-08-14,16:00:00,Checkup,No-show,2023-08,Monday,16,M,24,18-35,WellnessCorp,Pediatrics,19,Eastside Clinic,ECG,Basic screening,1959.5,T105,1959.5,Cash,Pending
+A106,P037,D005,2023-10-29,11:15:00,Therapy,Scheduled,2023-10,Sunday,11,M,27,18-35,HealthIndia,Dermatology,26,Central Hospital,X-Ray,Advanced protocol,1998.51,T106,1998.51,Credit Card,Paid
+A107,P009,D007,2023-04-17,13:45:00,Follow-up,Completed,2023-04,Monday,13,M,54,51-65,PulseSecure,Oncology,26,Westside Clinic,Chemotherapy,Advanced protocol,3512.69,T107,3512.69,Credit Card,Pending
+A108,P024,D005,2023-04-21,15:00:00,Emergency,Cancelled,2023-04,Friday,15,F,34,18-35,WellnessCorp,Dermatology,26,Central Hospital,X-Ray,Advanced protocol,4973.63,T108,4973.63,Cash,Paid
+A109,P035,D005,2023-07-29,14:00:00,Follow-up,Scheduled,2023-07,Saturday,14,F,33,18-35,MedCare Plus,Dermatology,26,Central Hospital,Chemotherapy,Advanced protocol,3478.28,T109,3478.28,Cash,Pending
+A110,P049,D005,2023-07-19,14:30:00,Consultation,Scheduled,2023-07,Wednesday,14,M,53,51-65,MedCare Plus,Dermatology,26,Central Hospital,Chemotherapy,Standard procedure,3010.03,T110,3010.03,Cash,Failed
+A111,P035,D010,2023-05-22,15:30:00,Follow-up,Scheduled,2023-05,Monday,15,F,33,18-35,MedCare Plus,Oncology,21,Eastside Clinic,MRI,Advanced protocol,3787.93,T111,3787.93,Credit Card,Paid
+A112,P048,D010,2023-01-11,8:00:00,Follow-up,No-show,2023-01,Wednesday,8,M,43,36-50,PulseSecure,Oncology,21,Eastside Clinic,MRI,Basic screening,2593.43,T112,2593.43,Insurance,Pending
+A113,P036,D003,2023-11-24,15:30:00,Consultation,Cancelled,2023-11,Friday,15,M,28,18-35,MedCare Plus,Pediatrics,19,Eastside Clinic,Chemotherapy,Standard procedure,770.64,T113,770.64,Insurance,Pending
+A114,P018,D001,2023-08-08,9:00:00,Therapy,Completed,2023-08,Tuesday,9,M,46,36-50,PulseSecure,Dermatology,17,Westside Clinic,Chemotherapy,Basic screening,3030.34,T114,3030.34,Cash,Pending
+A115,P049,D005,2023-10-25,10:30:00,Therapy,No-show,2023-10,Wednesday,10,M,53,51-65,MedCare Plus,Dermatology,26,Central Hospital,X-Ray,Standard procedure,4809.31,T115,4809.31,Insurance,Paid
+A116,P039,D009,2023-07-07,9:15:00,Follow-up,No-show,2023-07,Friday,9,F,75,65+,PulseSecure,Pediatrics,26,Central Hospital,X-Ray,Advanced protocol,1288.86,T116,1288.86,Cash,Paid
+A117,P032,D001,2023-06-20,13:45:00,Consultation,No-show,2023-06,Tuesday,13,M,45,36-50,MedCare Plus,Dermatology,17,Westside Clinic,MRI,Standard procedure,3605.02,T117,3605.02,Credit Card,Paid
+A118,P024,D003,2023-08-09,8:15:00,Consultation,Scheduled,2023-08,Wednesday,8,F,34,18-35,WellnessCorp,Pediatrics,19,Eastside Clinic,ECG,Standard procedure,1404.2,T118,1404.2,Insurance,Failed
+A119,P023,D004,2023-12-18,13:30:00,Emergency,Cancelled,2023-12,Monday,13,M,32,18-35,WellnessCorp,Pediatrics,28,Central Hospital,Chemotherapy,Basic screening,2911.22,T119,2911.22,Credit Card,Failed
+A120,P032,D001,2023-12-08,11:00:00,Therapy,No-show,2023-12,Friday,11,M,45,36-50,MedCare Plus,Dermatology,17,Westside Clinic,X-Ray,Basic screening,935.04,T120,935.04,Insurance,Paid
+A121,P037,D001,2023-04-07,15:00:00,Checkup,Completed,2023-04,Friday,15,M,27,18-35,HealthIndia,Dermatology,17,Westside Clinic,MRI,Advanced protocol,2526.67,T121,2526.67,Credit Card,Pending
+A122,P012,D008,2023-07-11,14:30:00,Therapy,Cancelled,2023-07,Tuesday,14,F,34,18-35,MedCare Plus,Dermatology,5,Westside Clinic,X-Ray,Standard procedure,3902.73,T122,3902.73,Insurance,Failed
+A123,P049,D002,2023-02-28,10:45:00,Therapy,Completed,2023-02,Tuesday,10,M,53,51-65,MedCare Plus,Pediatrics,24,Eastside Clinic,Chemotherapy,Standard procedure,2064.07,T123,2064.07,Credit Card,Paid
+A124,P013,D008,2023-03-16,17:15:00,Emergency,Cancelled,2023-03,Thursday,17,F,36,36-50,WellnessCorp,Dermatology,5,Westside Clinic,Chemotherapy,Standard procedure,3492.1,T124,3492.1,Credit Card,Pending
+A125,P023,D007,2023-02-18,10:15:00,Checkup,Completed,2023-02,Saturday,10,M,32,18-35,WellnessCorp,Oncology,26,Westside Clinic,Physiotherapy,Advanced protocol,4079.52,T125,4079.52,Insurance,Failed
+A126,P025,D010,2023-11-02,9:45:00,Emergency,Scheduled,2023-11,Thursday,9,M,59,51-65,HealthIndia,Oncology,21,Eastside Clinic,ECG,Advanced protocol,4672.3,T126,4672.3,Credit Card,Pending
+A127,P035,D010,2023-11-13,8:30:00,Checkup,No-show,2023-11,Monday,8,F,33,18-35,MedCare Plus,Oncology,21,Eastside Clinic,Physiotherapy,Advanced protocol,1555.89,T127,1555.89,Credit Card,Pending
+A128,P041,D002,2023-04-15,14:45:00,Follow-up,Completed,2023-04,Saturday,14,M,75,65+,WellnessCorp,Pediatrics,24,Eastside Clinic,MRI,Advanced protocol,2296.92,T128,2296.92,Credit Card,Pending
+A129,P030,D006,2023-08-25,9:30:00,Checkup,Cancelled,2023-08,Friday,9,M,61,51-65,PulseSecure,Pediatrics,23,Central Hospital,X-Ray,Advanced protocol,1185.87,T129,1185.87,Insurance,Pending
+A130,P017,D006,2023-02-23,15:00:00,Emergency,No-show,2023-02,Thursday,15,M,35,18-35,WellnessCorp,Pediatrics,23,Central Hospital,MRI,Basic screening,4966.18,T130,4966.18,Insurance,Failed
+A131,P049,D003,2023-05-11,16:30:00,Therapy,No-show,2023-05,Thursday,16,M,53,51-65,MedCare Plus,Pediatrics,19,Eastside Clinic,Chemotherapy,Standard procedure,4671.5,T131,4671.5,Credit Card,Failed
+A132,P020,D002,2023-07-26,10:45:00,Checkup,Cancelled,2023-07,Wednesday,10,F,23,18-35,MedCare Plus,Pediatrics,24,Eastside Clinic,Physiotherapy,Standard procedure,2929.81,T132,2929.81,Credit Card,Failed
+A133,P048,D001,2023-03-23,14:30:00,Checkup,Completed,2023-03,Thursday,14,M,43,36-50,PulseSecure,Dermatology,17,Westside Clinic,Physiotherapy,Standard procedure,4289.15,T133,4289.15,Insurance,Paid
+A134,P025,D006,2023-10-17,15:15:00,Consultation,Scheduled,2023-10,Tuesday,15,M,59,51-65,HealthIndia,Pediatrics,23,Central Hospital,Physiotherapy,Standard procedure,2844.31,T134,2844.31,Insurance,Failed
+A135,P022,D005,2023-09-09,16:30:00,Therapy,Scheduled,2023-09,Saturday,16,M,71,65+,MedCare Plus,Dermatology,26,Central Hospital,MRI,Standard procedure,3306.14,T135,3306.14,Credit Card,Pending
+A136,P013,D009,2023-05-13,12:30:00,Follow-up,Completed,2023-05,Saturday,12,F,36,36-50,WellnessCorp,Pediatrics,26,Central Hospital,Chemotherapy,Standard procedure,901.06,T136,901.06,Credit Card,Failed
+A137,P019,D001,2023-10-25,10:00:00,Emergency,No-show,2023-10,Wednesday,10,M,51,51-65,WellnessCorp,Dermatology,17,Westside Clinic,X-Ray,Standard procedure,3898.72,T137,3898.72,Credit Card,Pending
+A138,P049,D007,2023-12-26,15:15:00,Follow-up,No-show,2023-12,Tuesday,15,M,53,51-65,MedCare Plus,Oncology,26,Westside Clinic,X-Ray,Standard procedure,1074.71,T138,1074.71,Cash,Paid
+A139,P036,D005,2023-10-10,10:45:00,Therapy,No-show,2023-10,Tuesday,10,M,28,18-35,MedCare Plus,Dermatology,26,Central Hospital,MRI,Basic screening,4217.3,T139,4217.3,Insurance,Pending
+A140,P012,D005,2023-02-05,15:15:00,Checkup,No-show,2023-02,Sunday,15,F,34,18-35,MedCare Plus,Dermatology,26,Central Hospital,Physiotherapy,Standard procedure,4019.13,T140,4019.13,Cash,Pending
+A141,P041,D002,2023-06-15,15:15:00,Checkup,Completed,2023-06,Thursday,15,M,75,65+,WellnessCorp,Pediatrics,24,Eastside Clinic,ECG,Basic screening,3689.35,T141,3689.35,Insurance,Pending
+A142,P019,D003,2023-11-01,11:45:00,Therapy,No-show,2023-11,Wednesday,11,M,51,51-65,WellnessCorp,Pediatrics,19,Eastside Clinic,MRI,Advanced protocol,662.72,T142,662.72,Insurance,Paid
+A143,P012,D007,2023-09-21,12:15:00,Checkup,Cancelled,2023-09,Thursday,12,F,34,18-35,MedCare Plus,Oncology,26,Westside Clinic,MRI,Standard procedure,1864.08,T143,1864.08,Insurance,Failed
+A144,P009,D006,2023-08-16,12:15:00,Checkup,No-show,2023-08,Wednesday,12,M,54,51-65,PulseSecure,Pediatrics,23,Central Hospital,Chemotherapy,Advanced protocol,1684.01,T144,1684.01,Insurance,Failed
+A145,P007,D002,2023-11-11,14:45:00,Checkup,Scheduled,2023-11,Saturday,14,F,37,36-50,MedCare Plus,Pediatrics,24,Eastside Clinic,X-Ray,Advanced protocol,2120.61,T145,2120.61,Insurance,Paid
+A146,P028,D006,2023-01-05,9:30:00,Emergency,No-show,2023-01,Thursday,9,M,33,18-35,MedCare Plus,Pediatrics,23,Central Hospital,MRI,Advanced protocol,894.39,T146,894.39,Insurance,Pending
+A147,P014,D002,2023-11-13,17:30:00,Emergency,Completed,2023-11,Monday,17,M,58,51-65,MedCare Plus,Pediatrics,24,Eastside Clinic,MRI,Basic screening,4716.31,T147,4716.31,Insurance,Failed
+A148,P031,D002,2023-12-06,8:30:00,Consultation,Scheduled,2023-12,Wednesday,8,M,39,36-50,WellnessCorp,Pediatrics,24,Eastside Clinic,Physiotherapy,Advanced protocol,2992.11,T148,2992.11,Cash,Paid
+A149,P019,D002,2023-07-26,12:30:00,Follow-up,Completed,2023-07,Wednesday,12,M,51,51-65,WellnessCorp,Pediatrics,24,Eastside Clinic,Physiotherapy,Advanced protocol,1874.86,T149,1874.86,Credit Card,Failed
+A150,P047,D003,2023-08-16,10:45:00,Therapy,Completed,2023-08,Wednesday,10,M,30,18-35,WellnessCorp,Pediatrics,19,Eastside Clinic,ECG,Advanced protocol,2286.42,T150,2286.42,Credit Card,Paid
+A151,P016,D002,2023-01-28,9:15:00,Therapy,Scheduled,2023-01,Saturday,9,M,25,18-35,PulseSecure,Pediatrics,24,Eastside Clinic,Chemotherapy,Standard procedure,2512.41,T151,2512.41,Cash,Pending
+A152,P005,D004,2023-04-14,8:30:00,Therapy,Completed,2023-04,Friday,8,M,65,51-65,MedCare Plus,Pediatrics,28,Central Hospital,ECG,Standard procedure,3202.67,T152,3202.67,Cash,Failed
+A153,P035,D009,2023-07-08,12:45:00,Consultation,Completed,2023-07,Saturday,12,F,33,18-35,MedCare Plus,Pediatrics,26,Central Hospital,Physiotherapy,Basic screening,2820.56,T153,2820.56,Cash,Paid
+A154,P012,D006,2023-03-06,17:30:00,Emergency,No-show,2023-03,Monday,17,F,34,18-35,MedCare Plus,Pediatrics,23,Central Hospital,X-Ray,Basic screening,4637.26,T154,4637.26,Cash,Failed
+A155,P025,D001,2023-01-03,9:30:00,Consultation,Cancelled,2023-01,Tuesday,9,M,59,51-65,HealthIndia,Dermatology,17,Westside Clinic,Physiotherapy,Standard procedure,2736.34,T155,2736.34,Insurance,Failed
+A156,P021,D008,2023-11-22,14:30:00,Therapy,Completed,2023-11,Wednesday,14,M,24,18-35,WellnessCorp,Dermatology,5,Westside Clinic,Chemotherapy,Basic screening,4964.71,T156,4964.71,Credit Card,Failed
+A157,P036,D007,2023-05-12,11:00:00,Follow-up,Completed,2023-05,Friday,11,M,28,18-35,MedCare Plus,Oncology,26,Westside Clinic,Physiotherapy,Standard procedure,4331.41,T157,4331.41,Insurance,Failed
+A158,P023,D010,2023-07-12,12:15:00,Checkup,Completed,2023-07,Wednesday,12,M,32,18-35,WellnessCorp,Oncology,21,Eastside Clinic,Chemotherapy,Advanced protocol,1438.3,T158,1438.3,Credit Card,Paid
+A159,P016,D003,2023-04-08,16:15:00,Emergency,No-show,2023-04,Saturday,16,M,25,18-35,PulseSecure,Pediatrics,19,Eastside Clinic,Chemotherapy,Advanced protocol,4687.68,T159,4687.68,Credit Card,Pending
+A160,P039,D001,2023-12-17,12:45:00,Emergency,Cancelled,2023-12,Sunday,12,F,75,65+,PulseSecure,Dermatology,17,Westside Clinic,Chemotherapy,Basic screening,1023.65,T160,1023.65,Cash,Paid
+A161,P045,D005,2023-06-17,10:45:00,Consultation,Scheduled,2023-06,Saturday,10,F,60,51-65,MedCare Plus,Dermatology,26,Central Hospital,Chemotherapy,Standard procedure,4178.52,T161,4178.52,Insurance,Paid
+A162,P042,D004,2023-01-01,17:15:00,Emergency,No-show,2023-01,Sunday,17,F,71,65+,MedCare Plus,Pediatrics,28,Central Hospital,Chemotherapy,Standard procedure,2212.8,T162,2212.8,Cash,Paid
+A163,P039,D010,2023-06-27,15:00:00,Therapy,No-show,2023-06,Tuesday,15,F,75,65+,PulseSecure,Oncology,21,Eastside Clinic,X-Ray,Basic screening,4450.88,T163,4450.88,Insurance,Pending
+A164,P014,D008,2023-07-28,17:15:00,Therapy,Cancelled,2023-07,Friday,17,M,58,51-65,MedCare Plus,Dermatology,5,Westside Clinic,ECG,Standard procedure,4406.26,T164,4406.26,Credit Card,Failed
+A165,P031,D001,2023-04-04,15:30:00,Consultation,Cancelled,2023-04,Tuesday,15,M,39,36-50,WellnessCorp,Dermatology,17,Westside Clinic,MRI,Advanced protocol,4126.66,T165,4126.66,Cash,Failed
+A166,P005,D010,2023-01-12,14:45:00,Therapy,No-show,2023-01,Thursday,14,M,65,51-65,MedCare Plus,Oncology,21,Eastside Clinic,ECG,Basic screening,4055.14,T166,4055.14,Cash,Failed
+A167,P035,D001,2023-11-15,8:15:00,Follow-up,Scheduled,2023-11,Wednesday,8,F,33,18-35,MedCare Plus,Dermatology,17,Westside Clinic,Chemotherapy,Basic screening,1871.06,T167,1871.06,Credit Card,Pending
+A168,P023,D004,2023-09-29,10:00:00,Consultation,No-show,2023-09,Friday,10,M,32,18-35,WellnessCorp,Pediatrics,28,Central Hospital,X-Ray,Standard procedure,864.14,T168,864.14,Credit Card,Failed
+A169,P029,D008,2023-07-24,16:45:00,Follow-up,Cancelled,2023-07,Monday,16,M,21,18-35,HealthIndia,Dermatology,5,Westside Clinic,Physiotherapy,Basic screening,2313.41,T169,2313.41,Credit Card,Pending
+A170,P043,D005,2023-03-03,9:00:00,Checkup,Scheduled,2023-03,Friday,9,M,46,36-50,WellnessCorp,Dermatology,26,Central Hospital,X-Ray,Standard procedure,1280.86,T170,1280.86,Cash,Failed
+A171,P011,D002,2023-04-18,16:30:00,Follow-up,Cancelled,2023-04,Tuesday,16,F,59,51-65,MedCare Plus,Pediatrics,24,Eastside Clinic,Chemotherapy,Standard procedure,3627.28,T171,3627.28,Insurance,Failed
+A172,P018,D006,2023-03-09,16:15:00,Checkup,Scheduled,2023-03,Thursday,16,M,46,36-50,PulseSecure,Pediatrics,23,Central Hospital,X-Ray,Standard procedure,2057.45,T172,2057.45,Cash,Paid
+A173,P047,D005,2023-06-04,13:30:00,Checkup,Completed,2023-06,Sunday,13,M,30,18-35,WellnessCorp,Dermatology,26,Central Hospital,X-Ray,Standard procedure,4890.25,T173,4890.25,Insurance,Pending
+A174,P012,D002,2023-10-31,11:15:00,Follow-up,Cancelled,2023-10,Tuesday,11,F,34,18-35,MedCare Plus,Pediatrics,24,Eastside Clinic,Chemotherapy,Standard procedure,3384.37,T174,3384.37,Cash,Paid
+A175,P009,D003,2023-10-22,17:00:00,Consultation,Cancelled,2023-10,Sunday,17,M,54,51-65,PulseSecure,Pediatrics,19,Eastside Clinic,X-Ray,Basic screening,4201.16,T175,4201.16,Cash,Paid
+A176,P010,D009,2023-04-26,9:30:00,Therapy,No-show,2023-04,Wednesday,9,M,24,18-35,WellnessCorp,Pediatrics,26,Central Hospital,MRI,Advanced protocol,1096.36,T176,1096.36,Credit Card,Paid
+A177,P044,D007,2023-08-16,12:30:00,Therapy,Cancelled,2023-08,Wednesday,12,F,50,36-50,PulseSecure,Oncology,26,Westside Clinic,MRI,Advanced protocol,4379.07,T177,4379.07,Insurance,Pending
+A178,P017,D007,2023-01-17,13:15:00,Checkup,Cancelled,2023-01,Tuesday,13,M,35,18-35,WellnessCorp,Oncology,26,Westside Clinic,X-Ray,Basic screening,4652.41,T178,4652.41,Cash,Pending
+A179,P038,D006,2023-03-08,12:15:00,Checkup,Completed,2023-03,Wednesday,12,M,34,18-35,MedCare Plus,Pediatrics,23,Central Hospital,Physiotherapy,Basic screening,2691.78,T179,2691.78,Cash,Failed
+A180,P007,D008,2023-01-07,11:00:00,Consultation,Cancelled,2023-01,Saturday,11,F,37,36-50,MedCare Plus,Dermatology,5,Westside Clinic,Chemotherapy,Advanced protocol,3228.14,T180,3228.14,Credit Card,Paid
+A181,P046,D004,2023-09-03,13:15:00,Emergency,Completed,2023-09,Sunday,13,F,39,36-50,MedCare Plus,Pediatrics,28,Central Hospital,MRI,Advanced protocol,3941.64,T181,3941.64,Credit Card,Failed
+A182,P013,D008,2023-04-12,8:00:00,Follow-up,Completed,2023-04,Wednesday,8,F,36,36-50,WellnessCorp,Dermatology,5,Westside Clinic,Physiotherapy,Advanced protocol,1286.77,T182,1286.77,Insurance,Paid
+A183,P040,D004,2023-02-03,16:15:00,Checkup,Completed,2023-02,Friday,16,M,54,51-65,PulseSecure,Pediatrics,28,Central Hospital,X-Ray,Advanced protocol,2761.55,T183,2761.55,Cash,Pending
+A184,P042,D008,2023-02-26,17:45:00,Therapy,Completed,2023-02,Sunday,17,F,71,65+,MedCare Plus,Dermatology,5,Westside Clinic,Physiotherapy,Advanced protocol,2293.98,T184,2293.98,Insurance,Pending
+A185,P009,D009,2023-03-21,14:00:00,Consultation,Scheduled,2023-03,Tuesday,14,M,54,51-65,PulseSecure,Pediatrics,26,Central Hospital,ECG,Standard procedure,1158.68,T185,1158.68,Cash,Pending
+A186,P050,D003,2023-03-27,17:15:00,Follow-up,No-show,2023-03,Monday,17,M,32,18-35,WellnessCorp,Pediatrics,19,Eastside Clinic,MRI,Basic screening,2153.9,T186,2153.9,Insurance,Paid
+A187,P027,D003,2023-02-13,12:30:00,Consultation,Scheduled,2023-02,Monday,12,F,27,18-35,HealthIndia,Pediatrics,19,Eastside Clinic,X-Ray,Standard procedure,806.78,T187,806.78,Credit Card,Pending
+A188,P002,D002,2023-04-12,16:30:00,Follow-up,Cancelled,2023-04,Wednesday,16,F,41,36-50,PulseSecure,Pediatrics,24,Eastside Clinic,Chemotherapy,Advanced protocol,616.15,T188,616.15,Cash,Paid
+A189,P005,D010,2023-10-05,13:30:00,Follow-up,Scheduled,2023-10,Thursday,13,M,65,51-65,MedCare Plus,Oncology,21,Eastside Clinic,X-Ray,Advanced protocol,1108.25,T189,1108.25,Insurance,Failed
+A190,P029,D003,2023-11-16,15:15:00,Checkup,Scheduled,2023-11,Thursday,15,M,21,18-35,HealthIndia,Pediatrics,19,Eastside Clinic,Chemotherapy,Advanced protocol,4834.02,T190,4834.02,Credit Card,Paid
+A191,P037,D003,2023-04-12,16:00:00,Consultation,Cancelled,2023-04,Wednesday,16,M,27,18-35,HealthIndia,Pediatrics,19,Eastside Clinic,X-Ray,Standard procedure,2972.88,T191,2972.88,Credit Card,Failed
+A192,P038,D005,2023-08-31,14:15:00,Consultation,Cancelled,2023-08,Thursday,14,M,34,18-35,MedCare Plus,Dermatology,26,Central Hospital,Physiotherapy,Standard procedure,4846.2,T192,4846.2,Insurance,Paid
+A193,P019,D005,2023-09-15,8:15:00,Therapy,Cancelled,2023-09,Friday,8,M,51,51-65,WellnessCorp,Dermatology,26,Central Hospital,Physiotherapy,Advanced protocol,2446.24,T193,2446.24,Cash,Failed
+A194,P008,D002,2023-04-06,12:45:00,Therapy,Scheduled,2023-04,Thursday,12,F,49,36-50,WellnessCorp,Pediatrics,24,Eastside Clinic,Physiotherapy,Standard procedure,1903.17,T194,1903.17,Cash,Pending
+A195,P048,D010,2023-08-19,17:15:00,Checkup,Scheduled,2023-08,Saturday,17,M,43,36-50,PulseSecure,Oncology,21,Eastside Clinic,ECG,Standard procedure,2777.64,T195,2777.64,Credit Card,Failed
+A196,P045,D006,2023-10-26,9:45:00,Checkup,Cancelled,2023-10,Thursday,9,F,60,51-65,MedCare Plus,Pediatrics,23,Central Hospital,Chemotherapy,Advanced protocol,2477.8,T196,2477.8,Cash,Pending
+A197,P001,D005,2023-04-01,13:30:00,Emergency,No-show,2023-04,Saturday,13,F,71,65+,WellnessCorp,Dermatology,26,Central Hospital,Physiotherapy,Standard procedure,975.49,T197,975.49,Cash,Pending
+A198,P022,D006,2023-05-15,8:30:00,Therapy,No-show,2023-05,Monday,8,M,71,65+,MedCare Plus,Pediatrics,23,Central Hospital,ECG,Basic screening,3383.72,T198,3383.72,Cash,Failed
+A199,P017,D001,2023-05-01,12:45:00,Follow-up,Completed,2023-05,Monday,12,M,35,18-35,WellnessCorp,Dermatology,17,Westside Clinic,Chemotherapy,Basic screening,1472.17,T199,1472.17,Credit Card,Paid
+A200,P007,D005,2023-12-30,10:15:00,Consultation,Cancelled,2023-12,Saturday,10,F,37,36-50,MedCare Plus,Dermatology,26,Central Hospital,X-Ray,Basic screening,3288.15,T200,3288.15,Insurance,Paid
